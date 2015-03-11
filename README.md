@@ -9,7 +9,6 @@ Drush is a command-line interface (CLI) for managing Drupal:  see https://github
 An easy way to spin up a new Drupal site is to to use the `drush make`
 subcommand.  A typical invocation is
 ```
-$ mkdir /var/www/mysite
 $ drush make --prepare-install site.make /var/www/mysite
 ```
 This will download and install Drupal in the directory `/var/www/mysite`,
