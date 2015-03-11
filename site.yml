@@ -33,6 +33,7 @@ projects:
   - "webform"
   - "wysiwyg"
 # Themes
+  - "bootstrap"
   - "zen"
 
 # Libraries
