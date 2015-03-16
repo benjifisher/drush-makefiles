@@ -58,12 +58,13 @@ libraries:
       url: "http://github.com/johndyer/mediaelement/zipball/master"
     directory_name: "mediaelement"
     type: "library"
-  modernizr:
-    download:
-      type: get
-      url: "blob:http://modernizr.com/e8a28f6b-fa15-ac47-8f9b-ec7ae832b542"
-    directory_name: "modernizr"
-    type: "library"
+  # TODO:  this is not working.
+  # modernizr:
+  #   download:
+  #     type: get
+  #     url: "http://modernizr.com/e8a28f6b-fa15-ac47-8f9b-ec7ae832b542"
+  #   directory_name: "modernizr"
+  #   type: "library"
   underscore:
     download:
       type: get
